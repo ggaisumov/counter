@@ -1,0 +1,1 @@
+Counter App - A basic web application built using HTML, CSS, and JavaScript. Allows users to increment, decrement, and reset a counter value displayed on the screen.
